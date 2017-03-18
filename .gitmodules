@@ -1,0 +1,9 @@
+[submodule "src/bootloader/latest"]
+	path = src/bootloader/latest
+	url = https://github.com/LP-Tracker/lpt-bootloader
+[submodule "src/application/latest"]
+	path = src/application/latest
+	url = https://github.com/LP-Tracker/lpt-application
+[submodule "src/updater/latest"]
+	path = src/updater/latest
+	url = https://github.com/LP-Tracker/lpt-updater
