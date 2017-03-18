@@ -2,7 +2,7 @@
   "name": "lp-tracker",
   "version": "0.0.0",
   "description": "A desktop application for tracking LP (League Points)",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
