@@ -7,4 +7,4 @@
 // Hi, I'm Wyatt, and I think vanilla JS is ugly
 require('coffee-script').register()
 // Don't mind me, just invoking my CoffeeScript transpliler
-require('./src/boot/index') // Starting the main application
+require('./src/bootloader/latest/index') // Starting the main application
