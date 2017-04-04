@@ -4,3 +4,4 @@ node_modules/
 npm-debug.log
 releases/*
 config.json
+db/*
