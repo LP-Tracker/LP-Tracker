@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/Arm1stice/LP-Tracker#readme",
   "dependencies": {
-    "diskdb": "^0.1.17",
     "lol-js": "^2.0.2",
+    "nedb": "^1.8.0",
     "path-exists": "^3.0.0"
   }
 }
