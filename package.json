@@ -28,7 +28,7 @@
     "path-exists": "^3.0.0",
     "request": "^2.81.0",
     "rimraf": "^2.6.1",
-    "unzip": "^0.1.11"
+    "unzip2": "^0.2.5"
   },
   "devDependencies": {
     "electron": "^1.6.5"
