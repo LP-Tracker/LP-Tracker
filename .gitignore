@@ -5,3 +5,8 @@ npm-debug.log
 releases/*
 config.json
 db/*
+src/application/fallback/*
+src/bootloader/fallback/*
+src/updater/fallback/*
+update.zip
+update/*
