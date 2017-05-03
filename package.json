@@ -1,6 +1,6 @@
 {
   "name": "lp-tracker",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A desktop application for tracking LP (League Points)",
   "main": "main.js",
   "scripts": {
